@@ -64,6 +64,7 @@ if (sensorValue < 900) {
   delay(timer2); show(frame8);
   delay(timer2); show(frame9);
   delay(timer2); show(frame10);
+  delay(timer2); show(frame11);
   delay(timer2); show(frame1);
   delay(timer2); show(frame8);
   delay(timer2); show(frame9);
